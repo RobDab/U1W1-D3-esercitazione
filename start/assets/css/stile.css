@@ -67,4 +67,11 @@ main h2 {
 
 /* ELEMENTI NEL MAIN */
 
+.citazione {
+    width: 75%;
+    text-align: center;
+    background-color: #D7D7D7;
+    border-radius: 10%;
+}
+
 /* FOOTER */
