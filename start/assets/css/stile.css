@@ -13,7 +13,7 @@ header {
     width: 100%;
     height: 30vh;
     background-color: #489ec2;
-    border-bottom: #337492 ;
+    border-bottom:solid #337492 ;
     text-align: center;
     font-family: 'Raleway', sans-serif;
     line-height: 50px;
@@ -41,8 +41,8 @@ header > h2 {
 }
 
 .desk {
-    border: 3em;
-    border-color: white;
+    padding: 0.5em;
+    border: solid rgb(0,0,0,40%) 0.1em;
 }
 
 .copertina {
