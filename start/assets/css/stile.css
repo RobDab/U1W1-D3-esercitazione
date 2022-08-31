@@ -100,6 +100,10 @@ address img {
 
 }
 
+address b {
+    font-family: 'Raleway', sans-serif;
+}
+
 
 .citazione {    
     width: 75vw;
@@ -111,10 +115,13 @@ address img {
     margin-top: 1em;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .presentazione {
     margin-left: 1.5em;
+    margin-right: 1.5em;
 }
 
 
@@ -126,6 +133,10 @@ address img {
 
 /* .blockq {
     text-align: center;
-} perchè questa soluzione non funziona per centrare il blockquote?*/
+} 
+ ^^^^ perchè questa soluzione non funziona per centrare il blockquote?*/
+
+/* FORMATTAZIONE CSS DA TERMINARE PER LE ULTIME SEZIONI
+MA HO CAPITO COME FUNZIONA \(o.o)/ */
 
 /* FOOTER */
