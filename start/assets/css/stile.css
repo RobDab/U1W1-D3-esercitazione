@@ -110,9 +110,8 @@ address b {
     
     text-align: center;
     background-color: #D7D7D7;
-    margin-left: 2.5em;      
-    border-radius: 5px;
-    margin-top: 1em;
+    margin-left: 2.5em;     
+    border-radius: 10px;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
     padding-left: 1em;
@@ -131,10 +130,6 @@ address b {
 }
 
 
-/* .blockq {
-    text-align: center;
-} 
- ^^^^ perchè questa soluzione non funziona per centrare il blockquote?*/
 
 /* FORMATTAZIONE CSS DA TERMINARE PER LE ULTIME SEZIONI
 MA HO CAPITO COME FUNZIONA \(o.o)/ */
